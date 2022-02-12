@@ -26,8 +26,7 @@ header{
 .soc{
     border: 2px solid black;
     margin-top: 0.2px;
-    padding: 20px;
-    
+    padding: 20px; 
 }
 a{
  color: purple;
@@ -44,4 +43,9 @@ a:hover{
 }
 #hob{
     font-weight: 500;
+}
+.youtube{
+    border: 2px solid black;
+    margin-top: 0.2px;
+    padding: 20px; 
 }
