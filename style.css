@@ -1,0 +1,30 @@
+body{
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    height: 250px;
+    width: 250px;
+    margin: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+header{
+    border: 2px solid black;
+    padding: 20px;
+    height: 300px;
+}
+#about{
+    position: absolute;
+    top: 60px;
+    left: 350px;
+}
+.soc{
+    border: 2px solid black;
+    margin-top: 0.2px;
+    padding: 20px;
+}
