@@ -27,4 +27,21 @@ header{
     border: 2px solid black;
     margin-top: 0.2px;
     padding: 20px;
+    
+}
+a{
+ color: purple;
+ font-size: 14px;   
+}
+a:hover{
+    color: black;
+    font-size: 16px;
+}
+.hobby{
+    border: 2px solid black;
+    margin-top: 0.2px;
+    padding: 20px;
+}
+#hob{
+    font-weight: 500;
 }
