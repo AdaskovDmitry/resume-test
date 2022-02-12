@@ -29,5 +29,6 @@ div{
     padding: 20px;
 }
 h1{
+    text-shadow: 2px 2px red;
     text-align: center;
 }
