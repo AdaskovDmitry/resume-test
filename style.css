@@ -16,7 +16,7 @@ img{
     
 }
 header{
-    border-bottom: 2px solid black;
+
     padding: 20px;
     height: 300px;
 }
@@ -26,9 +26,14 @@ header{
     left: 350px;
 }
 .soc{
-    border-bottom: 2px solid black;
+    border: 1px solid black;
+    border-radius: 28px;
+    background-color: mediumseagreen;
     margin-top: 0.2px;
     padding: 20px; 
+    margin-bottom: 20px;
+    width: 90%;
+    margin-left: 30px;
 }
 a{
  color: purple;
@@ -39,17 +44,27 @@ a:hover{
     font-size: 16px;
 }
 .hobby{
-    border-bottom: 2px solid black;
+    border: 1px solid black;
+    border-radius: 28px;
+    background-color: palevioletred;
     margin-top: 0.2px;
     padding: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    margin-left: 30px;
 }
 #hob{
     font-weight: 500;
 }
 .youtube{
-    border-bottom: 2px solid black;
+    border: 1px solid black;
+    border-radius: 28px;
+    background-color: darkcyan;
     margin-top: 0.2px;
     padding: 20px; 
+    margin-bottom: 40px;
+    width: 90%;
+    margin-left: 30px;
 }
 .contact >h3{
     text-align: center;
