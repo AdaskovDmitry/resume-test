@@ -56,3 +56,13 @@ a:hover{
     font-size: 18px;
     text-shadow: 5px 5px gray;
 }
+.list{
+    display: flex;
+    list-style-type: none;
+    height: 200px;
+}
+.list>li{
+    margin-top: 40px;
+    margin-left: 10px;
+    word-spacing: 1px;
+}
