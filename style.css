@@ -92,3 +92,40 @@ a:hover{
     box-shadow: 5px 5px gray;
     background-color: wheat;
 }
+.pointer{
+    height: 30px;
+    cursor: pointer;
+    width: 90px;
+    background-color: rgb(117, 214, 154);
+    font-weight: 600;
+
+}
+.pointer:hover{
+    height: 35px;
+    cursor: pointer;
+    width: 95px;
+    background-color: rgb(64, 146, 95);
+    font-weight: 600;
+}
+.name{
+    margin-right: 10px;
+}
+.email{
+    margin-right: 8px;
+}
+.holder1{
+    background-color: rgb(207, 207, 207);
+    border: 1px solid gray;
+    border-radius: 25px;
+}
+.holder2{
+    background-color: rgb(207, 207, 207);
+    border: 1px solid gray;
+    border-radius: 25px;
+}
+.holder1:hover{
+    border: 3px solid steelblue;
+}
+.holder2:hover{
+    border: 3px solid steelblue; 
+}
